@@ -10,5 +10,12 @@ class calculateit
 	{x=a ,y=b;
 		return a-b;
 	}
-
-	
+void multiply(int x,int y)
+{x=a ,y=b;
+	return a*b;
+}
+void divide(int x,int y)
+{x=a,y=b;
+	return a/b;
+}
+}
