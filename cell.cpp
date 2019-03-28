@@ -18,4 +18,11 @@ void divide(int x,int y)
 {x=a,y=b;
 	return a/b;
 }
+};
+int main()
+{ sum(4,5);
+	subtract(4,5);
+	multiply(4,5);
+	divide(4,5);
+	return 1;
 }
